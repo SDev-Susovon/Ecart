@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "firstName": "Chandan",
+      "lastName": "Halder",
+      "email": "chandan@gmail.com",
+      "password": "c12345",
+      "confirmPassword": "c12345",
+      "id": "1"
+    },
+    {
+      "firstName": "Surajit",
+      "lastName": "Pal",
+      "email": "surajit@gmail.com",
+      "password": "s1234",
+      "confirmPassword": "s1234",
+      "id": "iZhw6Gb"
+    }
+  ]
+}
