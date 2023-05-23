@@ -1,4 +1,4 @@
-{   "homepage":"https://sdev-susovon.github.io",
+{   
     "name": "ecart-app",
     "version": "0.1.0",
     "private": true,
@@ -21,6 +21,7 @@
     },
     "scripts": {
         "start": "react-scripts start",
+        "homepage":"https://sdev-susovon.github.io/Ecart/",
         "predeploy": "npm run-build",
         "deploy": "gh-pages -d build",
         "product-server": "json-server --watch src/database/products.json --host localhost --port 3001",
