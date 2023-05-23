@@ -1,4 +1,4 @@
-{
+{ 
   "name": "ecart-app",
   "version": "0.1.0",
   "private": true,
@@ -22,6 +22,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy":"npm run-build",
+    "deploy":"gh-pages -d build",
     "product-server": "json-server --watch src/database/products.json --host localhost --port 3001",
     "user-server": "json-server --watch src/database/user.json --host localhost --port 3002",
     "dev": "concurrently \"npm start\" \"npm run product-server\" \"npm run user-server\"",

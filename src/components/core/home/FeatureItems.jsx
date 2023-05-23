@@ -27,7 +27,7 @@ const FeatureItems = () => {
                         <div className="product-image-wrapper">
                             <div className="single-products">
                                 <div className="productinfo text-center">
-                                    <img src="assets/images/home/1a.jpg" alt="" />
+                                    <img src="assets/images/home/product1.jpg" alt="" />
                                     {/* <img src={item.image} alt="" /> */}
                                     <h2><i className="fa-solid fa-indian-rupee-sign"></i> {item.price}</h2>
                                     <p>{item.title}</p>
