@@ -154,7 +154,7 @@ const Footer = () => {
                     <div className="container">
                         <div className="row">
                             <p className="pull-left">Copyright © 2023 E-CART Inc. All rights reserved.</p>
-                            <p className="pull-right">Designed by <span><a target="" href="#!">Chandan Halder</a></span></p>
+                            <p className="pull-right">Designed by <span><a target="" href="#!">Susovon-dev</a></span></p>
                         </div>
                     </div>
                 </div>
